@@ -1,0 +1,48 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Ulusal",TRT 1
+https://tv-trt1.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Ulusal",ATV
+https://atv-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:-1 group-title="Ulusal",Kanal D
+https://kanald-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 group-title="Ulusal",Show TV
+https://showtv-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 group-title="Ulusal",NOW TV
+https://nowtv-live.daioncdn.net/nowtv/nowtv.m3u8
+#EXTINF:-1 group-title="Ulusal",TV8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 group-title="Haber",TRT Haber
+https://tv-trthaber.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Haber",CNN Türk
+https://cnnturk-live.daioncdn.net/cnnturk/cnnturk.m3u8
+#EXTINF:-1 group-title="Haber",NTV
+https://ntv-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:-1 group-title="Haber",Habertürk
+https://haberturk-live.daioncdn.net/haberturk/haberturk.m3u8
+#EXTINF:-1 group-title="Haber",A Haber
+https://ahaber-live.daioncdn.net/ahaber/ahaber.m3u8
+#EXTINF:-1 group-title="Haber",TGRT Haber
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
+
+#EXTINF:-1 group-title="Spor",TRT Spor
+https://tv-trtspor.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Spor",TRT Spor Yıldız
+https://tv-trtsporyildiz.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="Belgesel",TRT Belgesel
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="Müzik",TRT Müzik
+https://tv-trtmuzik.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Müzik",Kral Pop TV
+https://kralpoptv-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
+#EXTINF:-1 group-title="Müzik",Power Türk TV
+https://powerturk-live.daioncdn.net/powerturk/powerturk.m3u8
+
+#EXTINF:-1 group-title="Çocuk",TRT Çocuk
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="Dini",TRT Diyanet
+https://tv-trtdiyanet.live.trt.com.tr/master.m3u8
